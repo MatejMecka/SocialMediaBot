@@ -1,0 +1,8 @@
+SlackToken = ""
+UserID = ""
+RedditUsername = ""
+RedditPassword = ""
+RedditClientID = ""
+RedditClientSecret = ""
+FacebookUsername = ""
+FacebookPassword = ""
